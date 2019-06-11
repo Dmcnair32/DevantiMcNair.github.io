@@ -23,7 +23,9 @@
         cannon.create.onTop(450);
         
         
-        
+        cannon.create.onRight(400);
+        cannon.create.onTop(380);
+        cannon.create.onBottom(320);
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
     };
